@@ -1,4 +1,7 @@
 # Navigate to the project folder
+# Before running npm start, run
+### 'npm install'
+in order to install node_module folder
 # Install Node.js and npm (if not already installed)
 # Install project dependencies: Run this npm install
 # Start the development server: npm start

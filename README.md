@@ -1,3 +1,11 @@
+# Navigate to the project folder
+# Install Node.js and npm (if not already installed)
+# Install project dependencies: Run this npm install
+# Start the development server: npm start
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
